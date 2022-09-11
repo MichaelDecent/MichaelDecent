@@ -1,7 +1,12 @@
-### KEEP DOING HARD THINGS 😎
+#### Hi 👋👋👋 am
+## MICHAEL NWOGHA 😎
+### Skilled DATA SCIENTIST and Aspiring Bioinformatics Scientist 
+Am driven by novel ideals and innovations, and am passionate about being of great impact to the world of technology, solving problems gives me fulfillment infact am never afraid of technical problems or errors, I confront them zealously. Being Successful in each problem I encounter makes better, happy and fulliedI love to work with peers cause they help learn new things
 
-<!--
-**MichaelDecent/MichaelDecent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+
+
+
 
 Here are some ideas to get you started:
 
