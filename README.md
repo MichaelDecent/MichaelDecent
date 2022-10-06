@@ -1,7 +1,8 @@
 #### Hi 👋👋👋 am
 ## MICHAEL NWOGHA 😎
 ### Skilled DATA SCIENTIST and Aspiring Bioinformatics Scientist 
-Am driven by novel ideals and innovations, and am passionate about being of great impact to the world of technology, solving problems gives me fulfillment infact am never afraid of technical problems or errors, I confront them zealously. Being Successful in each problem I encounter makes better, happy and fulliedI love to work with peers cause they help learn new things
+Am driven by novel ideals and innovations, passionate about being of great impact in the world of technology, solving problems gives me fulfillment, infact am never afraid of technical problems or errors, I confront them zealously. Being Successful in each problem I encounter makes better, happy and fullied.
+I love to work with my peers because they help learn better.
 
  
 
