@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Flask, Fast Api, Django, SQL, Linux,**
 
-- 📫 How to reach me **michaeldecent2@gamil.com**
+- 📫 How to reach me **michaeldecent2@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gGohTX9jyHV3ZEmm-GFPnoaf1dQqCtSG/view?usp=drive_link](https://drive.google.com/file/d/1gGohTX9jyHV3ZEmm-GFPnoaf1dQqCtSG/view?usp=drive_link)
 
