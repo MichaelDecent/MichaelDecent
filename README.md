@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **michaeldecent2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gGohTX9jyHV3ZEmm-GFPnoaf1dQqCtSG/view?usp=drive_link](https://drive.google.com/file/d/1gGohTX9jyHV3ZEmm-GFPnoaf1dQqCtSG/view?usp=drive_link)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1bT-lAFbw4TH48cr0NZMbiTYslu4JDz4j/view?usp=drive_link)
 
 - ⚡ Fun fact **Nothing is Impossible to achieve when you put your mind to it.**
 
