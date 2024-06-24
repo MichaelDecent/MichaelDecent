@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Learning Management System**
 
-- 🌱 I’m currently learning **Node Js, Express Js**
+- 🌱 I’m currently learning **Java, SpringBoot**
 
 - 💬 Ask me about **Python, Flask, Fast Api, Django, SQL, Linux,**
 
