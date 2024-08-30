@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaeldecent&label=Profile%20views&color=0e75b6&style=flat" alt="michaeldecent" /> </p>
 
-- 🔭 I’m currently working on **Learning Management System**
+- 🔭 I’m currently working on **An Queue Management System**
 
 - 🌱 I’m currently learning **Java, SpringBoot**
 
