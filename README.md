@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaeldecent&label=Profile%20views&color=0e75b6&style=flat" alt="michaeldecent" /> </p>
 
-- 🔭 I’m currently working on **An Queue Management System**
-
-- 🌱 I’m currently learning **Java, SpringBoot**
-
-- 💬 Ask me about **Python, Flask, Fast Api, Django, SQL, Linux,**
-
-- 📫 How to reach me **michaeldecent2@gmail.com**
-
-- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1bT-lAFbw4TH48cr0NZMbiTYslu4JDz4j/view?usp=drive_link)
+- 🔭 I’m currently **Exploring the world of AI Agents**
 
 - ⚡ Fun fact **Nothing is Impossible to achieve when you put your mind to it.**
 
