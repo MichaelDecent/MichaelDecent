@@ -1,14 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Michael%20Nwogha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer&descAlignY=52&descSize=18"/>
+
 <table>
 <tr>
 <td width="60%" valign="middle">
 
-## Michael Nwogha
-
-**Software Engineer · AI Engineer**
-
 I build scalable backend systems and explore the cutting edge of AI agents—architecting robust APIs, optimizing databases, and deploying intelligent solutions that power modern applications.
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/michael-nwogha/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/michaeldecent0)
