@@ -28,7 +28,7 @@
 Designing and building scalable APIs, microservices, and server-side architectures using Python, Go, and Node.js for high-performance applications.
 
 ```
-Python · Go · Node.js · Django · Flask · Express
+Python · Django · FastAPI · Java · Spring Boot · Typescript · NestJs
 ```
 
 </td>
