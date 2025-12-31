@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/michael-nwogha/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/michaeldecent0" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40" /></a>
+<a href="https://x.com/michaeldecent0" target="_blank"><img src="https://img.icons8.com/m_rounded/200/FFFFFF/twitterx.png" alt="X" width="40" /></a>
 
 </div>
 
