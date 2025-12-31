@@ -1,24 +1,15 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Michael%20Nwogha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer&descAlignY=52&descSize=18"/>
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Backend Developer" width="280" />
 
-I build scalable backend systems and explore the cutting edge of AI agents—architecting robust APIs, optimizing databases, and deploying intelligent solutions that power modern applications.
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/michael-nwogha/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/michaeldecent0)
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Backend Developer" width="300" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
