@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/michael-nwogha/)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/michaeldecent0)
+<a href="https://www.linkedin.com/in/michael-nwogha/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/michaeldecent0" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40" /></a>
 
 </div>
 
